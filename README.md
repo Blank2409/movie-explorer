@@ -34,10 +34,6 @@ This application uses the **Public API TMDB** to fetch movie and TV show data, a
 - [Slick Carousel](https://kenwheeler.github.io/slick/)
 - [MUI](https://mui.com/)
 
-## Related Links
-
-- [Live Website](https://m-streaming.vercel.app/)
-- [Repository](https://github.com/username/repo-name) 
 
 ## Open API
 
@@ -47,7 +43,7 @@ M-Streaming utilizes the [Public TMDB API](https://www.themoviedb.org/documentat
 
 1. Clone this repository using the command:
    ```bash
-   git clone https://github.com/marcellandreas/Movie-app-with-tmbd
+   git clone https://github.com/Blank2409/movie-explorer
    ```
 2. Navigate to the project directory:
    ```bash
