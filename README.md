@@ -32,6 +32,7 @@ This application uses the **Public API TMDB** to fetch movie and TV show data, a
 - [React Slick](https://react-slick.neostack.com/)
 - [Sass](https://sass-lang.com/)
 - [Slick Carousel](https://kenwheeler.github.io/slick/)
+- [MUI](https://mui.com/)
 
 ## Related Links
 
